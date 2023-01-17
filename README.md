@@ -14,7 +14,7 @@ Prerequisites:
 
 1.Installing:
 Clone the repository
-git clone https://github.com/[username]/carpooling-app.git
+git clone https://github.com/Ziedao/covoiaturage1
 
 2.Install the dependencies:
 flutter pub get
